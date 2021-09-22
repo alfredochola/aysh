@@ -52,7 +52,7 @@ border-bottom: 1px ridge #7c2d2d;
 .dropdown-item:active {
     color: #fff;
     text-decoration: none;
-    background-color: #335b8c
+    background-color: #335b8c;
 }
 
 .section {
@@ -115,7 +115,7 @@ border-bottom: 1px ridge #7c2d2d;
    .nav-item a:hover{
        color: rgb(219, 219, 219) !important;
         background-color: #571d1d;
-      font-size: 40px  !important;
+     
    }
 .rightpic{
     min-width: 570px;
