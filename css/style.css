@@ -42,6 +42,12 @@ border-bottom: 1px ridge #7c2d2d;
 }
 
 
+.dropdown-item:focus,
+.dropdown-item:hover {
+      color: #e7e7e7;
+    background-color: #571d1d
+}
+
 .dropdown-item.active,
 .dropdown-item:active {
     color: #fff;
@@ -108,6 +114,7 @@ border-bottom: 1px ridge #7c2d2d;
 @media (min-width:600px) {
    .nav-item a:hover{
        color: rgb(219, 219, 219) !important;
+        background-color: #571d1d;
    }
 .rightpic{
     min-width: 570px;
@@ -137,6 +144,8 @@ border-bottom: 1px ridge #7c2d2d;
 .dropdown-item:focus,
 .dropdown-item:hover {
        font-size: 40px  !important;
+   color: #e7e7e7;
+    background-color: #571d1d
 }
 
  
