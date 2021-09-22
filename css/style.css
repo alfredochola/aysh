@@ -115,6 +115,7 @@ border-bottom: 1px ridge #7c2d2d;
    .nav-item a:hover{
        color: rgb(219, 219, 219) !important;
         background-color: #571d1d;
+      font-size: 40px  !important;
    }
 .rightpic{
     min-width: 570px;
