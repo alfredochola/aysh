@@ -136,9 +136,7 @@ border-bottom: 1px ridge #7c2d2d;
 
 .dropdown-item:focus,
 .dropdown-item:hover {
-    color: #e7e7e7;
-    background-color: #571d1d;
-    font-size: 40px  !important;
+       font-size: 40px  !important;
 }
 
  
